@@ -1,0 +1,6 @@
+{
+  "name": "Election Assistant",
+  "description": "An interactive guide to the Indian election process, timelines, and registration steps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
