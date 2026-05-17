@@ -71,7 +71,7 @@ export const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
         >
            <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl border-4 border-white/10 aspect-video lg:aspect-square bg-slate-900">
              <img 
-               src="https://images.unsplash.com/photo-1540910419316-ce745c1064ea?q=80&w=2670&auto=format&fit=crop" 
+               src="https://as2.ftcdn.net/jpg/07/54/03/31/1000_F_754033159_LBkuTMiT7AxkOEKBThqMp4ywI40urFfp.jpg" 
                alt="Indian Parliament Building" 
                className="w-full h-full object-cover relative z-10 opacity-100"
                referrerPolicy="no-referrer"
